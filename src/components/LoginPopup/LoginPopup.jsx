@@ -1,4 +1,4 @@
-import { assets } from '../../Assets/assets.js'
+import { assets } from './../../Assets/assets.js'
 import './LoginPopup.css'
 
 import React, { useState } from 'react'
