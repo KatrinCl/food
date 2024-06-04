@@ -1,5 +1,5 @@
 import './exploreMenu.css'
-import { menu_list } from '../../assets/assets'
+import { menu_list } from '../../Assets/assets.js'
 
 import React from 'react'
 
