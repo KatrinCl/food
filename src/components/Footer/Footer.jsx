@@ -1,4 +1,4 @@
-import { assets } from '../../assets/assets'
+import { assets } from './../../assets/assets.js'
 import './footer.css'
 
 import React from 'react'
